@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-<p>Projeto de uma calculadora, utilizando svg e muitos recursos de Javascript</p>
+<p>Projeto de uma calculadora, utilizando svg e muitos recursos de Javascript.</p>
 
 <img src="/images/tela.png" alt="Tela da calculadora">
 
@@ -22,4 +22,4 @@
 - [x] 2.1. Copiar o projeto.
 - [x] 2.2. Executar o arquivo: `index.html`.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Pulido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Pulido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/) [![Github Badge](https://img.shields.io/badge/-Alex%20Pulido-black?style=flat-square&logo=Github&logoColor=white&link=https://www.https://github.com/axpalx/)](https://www.https://github.com/axpalx/)
