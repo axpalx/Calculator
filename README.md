@@ -22,4 +22,4 @@
 - [x] 2.1. Copiar o projeto.
 - [x] 2.2. Executar o arquivo: `index.html`.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Pulido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/) [![Github Badge](https://img.shields.io/badge/-Alex%20Pulido-black?style=flat-square&logo=Github&logoColor=white&link=https://www.https://github.com/axpalx/)](https://www.https://github.com/axpalx/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Pulido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/) [![Github Badge](https://img.shields.io/badge/-Alex%20Pulido-black?style=flat-square&logo=Github&logoColor=white&link=https://www.https://github.com/axpalx/)](https://www.https://github.com/axpalx/) [![Gmail Badge](https://img.shields.io/badge/-axpalx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axpalx@gmail.com)](mailto:axpalx@gmail.com)
