@@ -17,7 +17,7 @@
 - [x] 1.6. Arrays.
 - [x] 1.7. Função copia e cola.
 
-#### 2. Para utilizar a calculador
+#### 2. Para utilizar a calculadora
 
 - [x] 2.1. Copiar o projeto.
 - [x] 2.2. Executar o arquivo: `index.html`.
