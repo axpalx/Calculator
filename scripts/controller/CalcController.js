@@ -34,7 +34,6 @@ class CalcController {
     document.addEventListener("paste", (e) => {
       let text = e.clipboardData.getData("Text");
       this.displayCalc = parseFloat(text);
-      console.log(text);
     });
   }
 
@@ -199,8 +198,6 @@ class CalcController {
       this._lastNumber = this.getLastItem(false);
     }
 
-    console.log(this._lastOperator, this._lastNumber);
-
     let result = this.getResult();
     if (last == "%") {
       result /= 100;
@@ -254,8 +251,6 @@ class CalcController {
         this.setLastNumberToDisplay();
       }
     }
-
-    console.log(this._operation);
   }
 
   addDot() {
